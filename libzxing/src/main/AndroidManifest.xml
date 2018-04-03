@@ -1,0 +1,12 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.zl.libzxing" >
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <application
+        android:allowBackup="true"
+        android:supportsRtl="true">
+        <activity
+            android:label="@string/zxing_bar_name"
+            android:name=".activity.CaptureActivity"/>
+    </application>
+</manifest>

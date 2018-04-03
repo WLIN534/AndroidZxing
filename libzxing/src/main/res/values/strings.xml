@@ -1,0 +1,5 @@
+<resources>
+    <string name="zxing_bar_name">ZxingLib</string>
+    <string name="scaner_bottom_text">将二维码/条码放入框内，即可扫描  </string>
+    <string name="hint_text">提示：在PC客户端最新版中，选中规范右键--在线阅读--二维码打开，手机扫描二维码跳转至规范资源详情页</string>
+</resources>
